@@ -1,17 +1,10 @@
-# qr_code_chek_in
+# QRCodeCheckIN
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter para gerar ingressos com QR Code e realizar o controle de presença no evento. Permite cadastrar nome e e-mail, gerar ingressos, ler QR Codes pela câmera e validar check-ins, identificando ingressos já utilizados ou inválidos. Também possui uma lista de presença com contador de participantes confirmados.
 
-## Getting Started
+## Tecnologias utilizadas
+- Flutter e Dart
+- `mobile_scanner` para leitura de QR Code
+- `qr_flutter` para geração de QR Code
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1152" height="648" alt="printsdeexemplosap2dm" src="https://github.com/user-attachments/assets/05e462cd-4378-44cf-8c2e-bfe77eea7184" />
